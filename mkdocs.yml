@@ -1,21 +1,4 @@
 site_name: ai2xl docs
 
 nav:
-- Use Cases:
-    - 'Data Preparation': '#data-preparation'
-    - 'Sharing ML Models': '#sharing-ml-models'
-- Samples: '#sample-notebooks'
-- API Reference:
-    - 'export_data( )': '#export_data'
-    - 'apply_changes( )': '#apply_changes'
-    - 'detect_changes( )': '#detect_changes'
-    - 'export_model( )': '#export_model'
-- Advanced:
-    - 'Production Data Pipelines': '#production-data-pipelines'
-    - 'DP file structure': '#dp-file-structure'
-    - 'Custom functions (UDFs)': '#custom-functions-udfs'
-- Feedback:
-    - 'Generic feedback': '#feedback'
-    - 'Report issue': '#report-issue'
-    - 'Request new feature': '#request-new-feature'
-    - 'Questions': '#questions'
+    - 'index.md'
